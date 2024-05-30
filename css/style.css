@@ -644,7 +644,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 1px;
 }
 .skill i, .skill img {
-  margin-right: 8px;
+  padding:5px;
 }
 .skill-title {
   font-weight: bold;
